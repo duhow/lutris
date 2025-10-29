@@ -37,7 +37,7 @@ GAME_IDS = {
     "pro": ("pro", "Overwatch 2", "Pro", "overwatch-2"),
     "w1r": ("W1R", "Warcraft: Remastered", "W1R", "warcraft-i-remastered"),
     "w1": ("W1", "Warcraft: Orcs & Humans", "W1", "warcraft-orcs-humans"),
-    "w2bn": ("w2bn", "Warcraft II: Battle.net Edition", "W2BN", "warcraft-ii-battle-net-edition"),
+    "w2": ("W2", "Warcraft II: Battle.net Edition", "W2", "warcraft-ii-battle-net-edition"),
     "w2r": ("W2R", "Warcraft II: Remastered", "W2R", "warcraft-ii-remastered"),
     "w3": ("w3", "Warcraft III", "W3", "warcraft-iii-reforged"),
     "hsb": ("hsb", "Hearthstone", "WTCG", "hearthstone"),
