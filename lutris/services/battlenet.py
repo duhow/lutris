@@ -35,7 +35,10 @@ GAME_IDS = {
     "wow": ("wow", "World of Warcraft", "WoW", "world-of-warcraft"),
     "wow_classic": ("wow_classic", "World of Warcraft Classic", "WoW_wow_classic", "world-of-warcraft-classic"),
     "pro": ("pro", "Overwatch 2", "Pro", "overwatch-2"),
+    "w1r": ("W1R", "Warcraft: Remastered", "W1R", "warcraft-i-remastered"),
+    "w1": ("W1", "Warcraft: Orcs & Humans", "W1", "warcraft-orcs-humans"),
     "w2bn": ("w2bn", "Warcraft II: Battle.net Edition", "W2BN", "warcraft-ii-battle-net-edition"),
+    "w2r": ("W2R", "Warcraft II: Remastered", "W2R", "warcraft-ii-remastered"),
     "w3": ("w3", "Warcraft III", "W3", "warcraft-iii-reforged"),
     "hsb": ("hsb", "Hearthstone", "WTCG", "hearthstone"),
     "hero": ("hero", "Heroes of the Storm", "Hero", "heroes-of-the-storm"),
@@ -59,6 +62,7 @@ GAME_IDS = {
     "d2LOD": ("d2LOD", "Diablo® II: Lord of Destruction®", "Diablo II", "diablo-ii-lord-of-destruction"),
     "w3ROC": ("w3ROC", "Warcraft® III: Reign of Chaos", "Warcraft III", "warcraft-iii-reign-of-chaos"),
     "w3tft": ("w3tft", "Warcraft® III: The Frozen Throne®", "Warcraft III", "warcraft-iii-the-frozen-throne"),
+    "gry": ("GRY", "Warcraft Rumble", "GRY", "warcraft-rumble"),
     "sca": ("sca", "StarCraft® Anthology", "Starcraft", "starcraft"),
     "anbs": ("anbs", "Diablo Immortal", "ANBS", "diablo-immortal"),
 }
